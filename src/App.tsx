@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Projects from './components/Projects';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Hero />
       <main>
+        <Projects />
         {/* Other sections will go here */}
       </main>
     </div>
