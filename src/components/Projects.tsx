@@ -1,7 +1,7 @@
 import React from 'react';
 import { Github, ExternalLink } from 'lucide-react';
 
-import { projects, Project } from '../data/projectsData';
+import { projects } from '../data/projectsData';
 
 
 const Projects = () => {
